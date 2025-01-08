@@ -1,6 +1,6 @@
-### Introduction
+### Hello 👋, I'm Danny.
 
-Hello 👋, I'm Danny. I'm a Full Stack & AI Engineer and ex-Founder based in London who has been working for start-ups for YEARS.
+I'm a Full Stack & AI Engineer and ex-Founder based in London who has been working for start-ups for YEARS.
 
 For my last role as Founding Engineer at Wordware I was flown out to SF zero-notice to boost engineering capacity during the busy YC period. There I:
 
