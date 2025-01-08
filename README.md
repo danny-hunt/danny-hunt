@@ -9,12 +9,7 @@ For my last role as Founding Engineer at Wordware I was flown out to SF zero-not
 - Implemented Stripe payments subscription & usage billing for LLMs & other tools
 - Saved 0.5% of the cap table (yes really)
 
-I'm actively looking for new roles either in London or remote. What you will not get with me:
-
-- Someone who just nods and agrees
-- Someone who stops caring when the clock hits 5pm
-
-I love:
+I'm actively looking for new roles either in London or remote. I love:
 
 - Leading and pushing a team forward
 - Working on difficult technical challenges
