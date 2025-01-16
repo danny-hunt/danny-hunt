@@ -7,7 +7,6 @@ For my last role as Founding Engineer at Wordware I was flown out to SF zero-not
 - Scaled app performance in 2 days when usage suddenly spiked to 4 million users
 - Rebuilt a prompt-first programming language to break out of the http request lifecycle & migrate from Vercel -> Cloudflare reducing costs by 80%
 - Implemented Stripe payments subscription & usage billing for LLMs & other tools
-- Saved 0.5% of the cap table (yes really)
 
 I'm actively looking for new roles either in London or remote. I love:
 
