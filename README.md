@@ -1,18 +1,22 @@
-### Hello 👋, I'm Danny.
+### Hello 👋, I'm Danny
 
-I'm a Full Stack & AI Engineer and ex-Founder based in London who has been working for start-ups for YEARS.
+I'm a Software Engineer and ex-Founder based in London. 
 
-For my last role as Founding Engineer at Wordware I was flown out to SF zero-notice to boost engineering capacity during the busy YC period. There I:
+In my most recent professional role as Founding Engineer at Wordware (YC S24) I was flown out to SF zero-notice to boost engineering capacity during the busy YC batch period. There I:
 
 - Scaled app performance in 2 days when usage suddenly spiked to 4 million users
 - Rebuilt a prompt-first programming language to break out of the http request lifecycle & migrate from Vercel -> Cloudflare reducing costs by 80%
-- Implemented Stripe payments subscription & usage billing for LLMs & other tools
+- Implemented Stripe payments subscription & usage billing to pass on costs for 20-25 third party LLM & data APIs
 
-I'm actively looking for new roles either in London or remote. I love:
+In my previous roles I have:
+
+- Built a system for hosting & spinning up arbitrary LLM models on demand for adversarial research
+- Performance-optimized an excel-like spreadsheet formula language
+- Managed a product team building out a public API & in-app scripting functionality for a SaaS product
+- Much more...
+
+I love:
 
 - Leading and pushing a team forward
 - Working on difficult technical challenges
-- Working with people that are passionate about what they do
-- Getting STUFF done
-
-Reach out if any of this sounds interesting to you, or if you just want to chat!
+- Working with people that are great, open & passionate about what they do
