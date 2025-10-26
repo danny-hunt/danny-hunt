@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Danny
 
-Currently a Software Engineer @ Cogna writing code to write code to test code written by code. I love my job. Other recent history:
+Currently writing code to write code to test code written by code. Other recent history:
 
 **Founding Engineer at Wordware** (YC S24 - raised $30m) - flown out zero-notice to boost engineering capacity during the busy YC batch period. There I:
 
