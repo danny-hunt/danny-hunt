@@ -1,6 +1,11 @@
 ### Hi 👋, I'm Danny
 
-Currently writing code to write code to test code written by code. Other recent history:
+Currently automating GTM. It's perfect for AI disruption. Latency isn't super important and you don't need to be correct every time. It's perfect for AI disruption. Other recent history:
+
+**Engineer at Cogna**
+
+- Building a framework for coding agents to mimic the full SDLC
+- Discovering the right UX to get non technical users to tell you what they actually need rather than what they say they want.
 
 **Founding Engineer at Wordware** (YC S24 - raised $30m) - flown out zero-notice to boost engineering capacity during the busy YC batch period. There I:
 
@@ -13,5 +18,5 @@ In previous roles I tend to do the hard stuff:
 - Built a system for hosting & spinning up arbitrary LLM models on demand for adversarial research
 - Created & took a product from 0 -> 1, reaching thousands of MAUs and $3k MRR
 - Performance-optimized an excel-like spreadsheet formula language
-- Managed a product team building out a public API & in-app scripting functionality for a SaaS product
+- Managed a product team building out a public API & in-app scripting functionality
 - Much more...
