@@ -1,11 +1,17 @@
 ### Hi 👋, I'm Danny
 
-Currently automating GTM. It's perfect for AI disruption. Latency isn't super important and you don't need to be correct every time. It's perfect for AI disruption. Other recent history:
+Currently building something new... 
+
+**YC P26**
+
+- Accepted into YC's Spring 26 batch.
+- CTO working on automating GTM. Latency isn't super important and you don't need to be correct every time. It's perfect for AI disruption.
+- Co-founder break-up cut this short. It's a great story - ask me!
 
 **Engineer at Cogna**
 
 - Building a framework for coding agents to mimic the full SDLC
-- Discovering the right UX to get non technical users to tell you what they actually need rather than what they say they want.
+- Discovering the right UX to get non technical users to tell you what they actually need rather than what they think they want.
 
 **Founding Engineer at Wordware** (YC S24 - raised $30m) - flown out zero-notice to boost engineering capacity during the busy YC batch period. There I:
 
